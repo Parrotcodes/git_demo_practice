@@ -1,1 +1,3 @@
 welcome to my world
+
+Try to learn full git commands and use it practicallly for the future project works as soon as possible
