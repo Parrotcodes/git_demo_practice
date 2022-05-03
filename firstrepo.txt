@@ -1,0 +1,2 @@
+ssh using git clone 
+added a line to git hub new repo
